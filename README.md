@@ -25,6 +25,8 @@ https://github.com/mpeterson/rdo-openshift-tools
 
 ```
 git clone https://github.com/okd-community-install/installcentos.git
+or 
+https://github.com/aslanshemilov/installcentos.git
 ```
 
 3. Execute the installation script
